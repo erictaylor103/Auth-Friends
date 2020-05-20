@@ -1,3 +1,5 @@
+Initial commit - no coding started yet
+
 # Auth Friends
 
 Topics:
